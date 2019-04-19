@@ -1,7 +1,7 @@
 # HackerRank
 * Data Structures,Algorithms,Mathematics that I have practised in HackerRank
 * Language Used : C++ , Python , Java 
-* HackerRank UserHandle : https://www.hackerrank.com/markpairdha
+* HackerRank Profile : https://www.hackerrank.com/markpairdha
 * Algorithms : https://www.hackerrank.com/domains/algorithms
 * DataStructures : https://www.hackerrank.com/domains/data-structures
 * Mathematics : https://www.hackerrank.com/domains/mathematics
